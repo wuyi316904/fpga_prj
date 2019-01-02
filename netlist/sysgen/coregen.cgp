@@ -1,0 +1,22 @@
+# Date: Sun Nov 11 00:53:35 2018
+
+SET addpads = false
+SET asysymbol = false
+SET busformat = BusFormatParenNotRipped
+SET createndf = false
+SET designentry = VHDL
+SET device = xc6slx150
+SET devicefamily = spartan6
+SET flowvendor = Other
+SET formalverification = false
+SET foundationsym = false
+SET implementationfiletype = Ngc
+SET package = fgg484
+SET removerpms = false
+SET simulationfiles = Behavioral
+SET speedgrade = -3
+SET verilogsim = true
+SET vhdlsim = false
+SET workingdirectory = .\tmp\
+
+# CRC:  927f629

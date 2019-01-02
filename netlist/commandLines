@@ -1,0 +1,3 @@
+D:/Xilinx/14.7/ISE_DS/ISE/sysgen/bin/nt64/saferun.exe -a D:/work/cfr_spartan6/netlist/pc_cfr_spartan6_v1_1_cw_import.log -- d:/xilinx/14.7/ise_ds/ise//bin/nt64/xtclsh.exe ProjectGeneration.tcl
+D:/Xilinx/14.7/ISE_DS/ISE/sysgen/bin/nt64/saferun.exe -a D:/work/cfr_spartan6/netlist/pc_cfr_spartan6_v1_1_cw_import.log -- d:/xilinx/14.7/ise_ds/ise//bin/nt64/xtclsh.exe ProjectGeneration.tcl
+D:/Xilinx/14.7/ISE_DS/ISE/sysgen/bin/nt64/saferun.exe -a D:/work/cfr_spartan6_V1_2/netlist/pc_cfr_spartan6_v1_2_cw_import.log -- d:/xilinx/14.7/ise_ds/ise//bin/nt64/xtclsh.exe ProjectGeneration.tcl

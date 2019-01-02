@@ -1,0 +1,3 @@
+verilog work pc_cfr_spartan6_v1_1.v
+verilog work pc_cfr_spartan6_v1_1_cw.v
+verilog work $XILINX/verilog/src/glbl.v

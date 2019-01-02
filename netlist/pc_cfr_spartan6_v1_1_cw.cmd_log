@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Private_project/netlist/pc_cfr_spartan6_v1_1_cw.xst" -ofn "D:/Private_project/netlist/pc_cfr_spartan6_v1_1_cw.syr" 

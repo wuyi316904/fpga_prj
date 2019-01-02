@@ -1,0 +1,38 @@
+{
+  'diff' => {
+    'attributes' => {
+      'added' => [
+      ],
+      'modified' => [
+        'clkWrapper',
+        'design',
+        'design_full_path',
+        'files',
+      ],
+      'removed' => [
+      ],
+    },
+    'changed' => 1,
+    'files' => {
+      'added' => [
+        'pc_cfr_spartan6_v1_2_cw.v',
+        'pc_cfr_spartan6_v1_2_cw.ucf',
+        'pc_cfr_spartan6_v1_2.v',
+        'bmg_72_121f2feae115cb60.mif',
+      ],
+      'common' => [
+        'bmg_72_1a6cb457801618b3.mif',
+        'dmg_72_195596f332d57672.mif',
+        'bmg_72_02af306bc8bac7b8.mif',
+        'dmg_72_ad5060a4053d2208.mif',
+        'bmg_72_1071e1009a08056e.mif',
+      ],
+      'removed' => [
+        'pc_cfr_spartan6_v1_1_cw.v',
+        'bmg_72_a6c4ef01947aacb1.mif',
+        'pc_cfr_spartan6_v1_1.v',
+        'pc_cfr_spartan6_v1_1_cw.ucf',
+      ],
+    },
+  },
+}
