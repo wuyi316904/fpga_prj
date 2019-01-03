@@ -1,5 +1,0 @@
-{
-  'addsub' => 'SELECT Adder_Subtracter spartan6 Xilinx,_Inc. 11.0',
-  'dpram' => 'SELECT Block_Memory_Generator spartan6 Xilinx,_Inc. 7.2',
-  'sprom' => 'SELECT Distributed_Memory_Generator spartan6 Xilinx,_Inc. 7.2'
-}

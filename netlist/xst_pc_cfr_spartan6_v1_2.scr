@@ -1,1 +1,0 @@
-run -ifn xst_pc_cfr_spartan6_v1_2.prj -ifmt mixed -ofn pc_cfr_spartan6_v1_2_cw.ngc -ofmt NGC -p xc6slx150-3fgg484 -ent pc_cfr_spartan6_v1_2_cw -keep_hierarchy NO -iobuf YES -bus_delimiter [] -top pc_cfr_spartan6_v1_2_cw -hierarchy_separator / -report_timing_constraint_problems warning -register_balancing no -iob Auto -uc pc_cfr_spartan6_v1_2_cw.xcf -write_timing_constraints yes
